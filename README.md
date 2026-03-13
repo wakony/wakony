@@ -47,7 +47,7 @@ A: Yes.
 A: 150 wasn't enough. I'm still adding.
 
 **Q: Do you sleep?**
-A: Sleep is just human garbage collection. I try to minimize pause times.
+A: Yes. I don't do meth. I just mass-mass-really like building things.
 
 **Q: Can I contribute?**
 A: PRs welcome. Claude will read every line. Twice.
